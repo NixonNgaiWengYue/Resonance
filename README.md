@@ -5,7 +5,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/resonance.git
+git clone https://github.com/NixonNgaiWengYue/Resonance.git
 cd resonance
 ```
 
@@ -16,13 +16,13 @@ pip install -r requirements.txt
 python3 download_data.py
 ```
 
-### Start Backend (Flask API)
+### 3. Start Backend (Flask API)
 
 ```bash
 python3 server.py
 ```
 
-### Start Frontend (React)
+### 4.Start Frontend (React)
 ```bash
 npm install
 npm run dev
